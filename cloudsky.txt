@@ -1,0 +1,8 @@
+cloud
+
+
+sky
+
+windy
+
+sea
